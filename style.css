@@ -1,0 +1,26 @@
+body{
+    font-family: 'Lexend Deca', sans-serif;
+}
+h1{
+    font-size: 40px;
+    color: rgb(11, 62, 129);
+}
+h3{
+    color: rgb(0, 0, 0);
+}
+p{
+    color: rgb(6, 4, 7);
+    background-color: salmon;
+}
+.name-highlight{
+    color: orange;
+}
+.side{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 4%;
+}
+.side img{
+    width: 100%;
+}
